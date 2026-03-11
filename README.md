@@ -64,8 +64,6 @@ me.say_hi()
 ### AI & Data
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![PyCharm](https://skillicons.dev/icons?i=pyCharm)](https://jetbrains.com/pycharm)
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 
 ### Web & Cloud
