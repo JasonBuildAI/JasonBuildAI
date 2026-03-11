@@ -148,11 +148,19 @@ me.say_hi()
 
 <br/>
 
-<!-- 奖杯展示 -->
+<!-- 成就展示 -->
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JasonBuildAI&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+  
+  <!-- GitHub Metrics 综合数据卡片 -->
+  <img src="https://metrics.lecoq.io/JasonBuildAI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai&config.octicon=true&config.display=columns&config.animation=scale&config.padding=10&theme=tokyonight" alt="GitHub Metrics" width="100%" />
+  
+  <br><br>
+  
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=JasonBuildAI&theme=tokyo-night&background=0D1117&no-bg=true&no-frame=true" alt="3D Contribution Graph" width="100%" />
+  
 </div>
 
 <br/>
