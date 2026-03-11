@@ -52,66 +52,43 @@ me.say_hi()
 <div align="center">
 
 ### Languages & Frameworks
-<p align="center">
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></a>
-  <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/></a>
-  <a href="https://javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/></a>
-  <a href="https://java.com"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" alt="Java"/></a>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" alt="Go"/></a>
-  <a href="https://rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000" alt="Rust"/></a>
-  <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++"/></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#"/></a>
-</p>
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
+[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com)
 
 ### AI & Data
-<p align="center">
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch"/></a>
-  <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" alt="OpenAI"/></a>
-  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E" alt="HuggingFace"/></a>
-  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/></a>
-  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/></a>
-  <a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C" alt="LangChain"/></a>
-</p>
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
+[![HuggingFace](https://skillicons.dev/icons?i=huggingface)](https://huggingface.co)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org)
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org)
+[![LangChain](https://skillicons.dev/icons?i=langchain)](https://langchain.com)
 
 ### Web & Cloud
-<p align="center">
-  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></a>
-  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D" alt="Vue"/></a>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/></a>
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/></a>
-  <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/></a>
-  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5" alt="Kubernetes"/></a>
-  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS"/></a>
-  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0078D4" alt="Azure"/></a>
-</p>
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
 
 ### Databases & Tools
-<p align="center">
-  <a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></a>
-  <a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL"/></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D" alt="Redis"/></a>
-  <a href="https://mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI"/></a>
-  <a href="https://graphql.org"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL"/></a>
-  <a href="https://linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux"/></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></a>
-</p>
-
-<!-- 技能图标矩阵 -->
-<details>
-<summary>🎨 <b>Click to view animated skill icons</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,rust,cpp,cs&perline=8" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai&perline=8" alt="AI" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,docker,kubernetes,aws,azure&perline=8" alt="Web & Cloud" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql,fastapi,graphql,linux,git&perline=8" alt="Tools" />
-</p>
-</details>
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 
 </div>
 
@@ -136,6 +113,10 @@ me.say_hi()
 
 <a href="https://github.com/JasonBuildAI/open-storyline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=open-storyline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Open Storyline" />
+</a>
+
+<a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireRedTeam&repo=FireRed-OpenStoryline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FireRed-OpenStoryline" />
 </a>
 
 </div>
