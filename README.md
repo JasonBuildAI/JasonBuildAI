@@ -69,6 +69,8 @@ me.say_hi()
 [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org)
 [![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org)
 [![LangChain](https://skillicons.dev/icons?i=langchain)](https://langchain.com)
+[![Keras](https://skillicons.dev/icons?i=keras)](https://keras.io)
+[![ScikitLearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
 
 ### Web & Cloud
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
@@ -113,8 +115,8 @@ me.say_hi()
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/JasonBuildAI/DeepAgents">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=DeepAgents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="DeepAgents" />
+        <a href="https://github.com/langchain-ai/deepagents">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=deepagents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="DeepAgents" />
         </a>
       </td>
       <td>
