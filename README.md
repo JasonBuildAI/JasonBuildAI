@@ -62,7 +62,6 @@ me.say_hi()
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com)
 
 ### AI & Data
-<p align="center">
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
@@ -70,7 +69,6 @@ me.say_hi()
 [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org)
 [![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org)
 [![LangChain](https://skillicons.dev/icons?i=langchain)](https://langchain.com)
-</p>
 
 ### Web & Cloud
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
@@ -120,18 +118,10 @@ me.say_hi()
         </a>
       </td>
       <td>
-        <a href="https://github.com/JasonBuildAI/open-storyline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=open-storyline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Open Storyline" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireRedTeam&repo=FireRed-OpenStoryline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FireRed-OpenStoryline" />
         </a>
       </td>
-      <td></td>
     </tr>
   </table>
 </div>
@@ -163,17 +153,7 @@ me.say_hi()
 
 <br/>
 
-<!-- 成就展示 -->
-## 🏆 Achievements
 
-<div align="center">
-  
-  <!-- 贡献日历热力图 -->
-  <img src="https://ghchart.rshah.org/00D9FF/JasonBuildAI" alt="GitHub Contribution Chart" width="100%" />
-  
-</div>
-
-<br/>
 
 <!-- 贡献蛇动画 -->
 <div align="center">
