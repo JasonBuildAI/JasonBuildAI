@@ -62,6 +62,7 @@ me.say_hi()
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com)
 
 ### AI & Data
+<p align="center">
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
@@ -69,6 +70,7 @@ me.say_hi()
 [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org)
 [![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org)
 [![LangChain](https://skillicons.dev/icons?i=langchain)](https://langchain.com)
+</p>
 
 ### Web & Cloud
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
@@ -98,27 +100,40 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/JasonBuildAI/GoldMind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=GoldMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GoldMind" />
-</a>
-
-<a href="https://github.com/modelscope/agentscope">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=modelscope&repo=agentscope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="AgentScope" />
-</a>
-
-<a href="https://github.com/JasonBuildAI/DeepAgents">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=DeepAgents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="DeepAgents" />
-</a>
-
-<a href="https://github.com/JasonBuildAI/open-storyline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=open-storyline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Open Storyline" />
-</a>
-
-<a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireRedTeam&repo=FireRed-OpenStoryline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FireRed-OpenStoryline" />
-</a>
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/JasonBuildAI/GoldMind">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=GoldMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GoldMind" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/modelscope/agentscope">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=modelscope&repo=agentscope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="AgentScope" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/JasonBuildAI/DeepAgents">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=DeepAgents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="DeepAgents" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JasonBuildAI/open-storyline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=open-storyline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Open Storyline" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireRedTeam&repo=FireRed-OpenStoryline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FireRed-OpenStoryline" />
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -153,13 +168,8 @@ me.say_hi()
 
 <div align="center">
   
-  <!-- GitHub Metrics 综合数据卡片 -->
-  <img src="https://metrics.lecoq.io/JasonBuildAI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai&config.octicon=true&config.display=columns&config.animation=scale&config.padding=10&theme=tokyonight" alt="GitHub Metrics" width="100%" />
-  
-  <br><br>
-  
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=JasonBuildAI&theme=tokyo-night&background=0D1117&no-bg=true&no-frame=true" alt="3D Contribution Graph" width="100%" />
+  <!-- 贡献日历热力图 -->
+  <img src="https://ghchart.rshah.org/00D9FF/JasonBuildAI" alt="GitHub Contribution Chart" width="100%" />
   
 </div>
 
