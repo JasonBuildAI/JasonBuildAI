@@ -64,10 +64,8 @@ me.say_hi()
 ### AI & Data
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org)
-[![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![PyCharm](https://skillicons.dev/icons?i=pyCharm)](https://jetbrains.com/pycharm)
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 
 ### Web & Cloud
