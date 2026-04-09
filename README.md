@@ -94,32 +94,20 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/JasonBuildAI/GoldMind">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonBuildAI&repo=GoldMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GoldMind" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/modelscope/agentscope">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=modelscope&repo=agentscope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="AgentScope" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/langchain-ai/deepagents">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=deepagents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="DeepAgents" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireRedTeam&repo=FireRed-OpenStoryline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FireRed-OpenStoryline" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<!-- 使用 GitHub 官方卡片样式展示项目 -->
+[![GoldMind](https://img.shields.io/badge/GoldMind-AI%20Powered%20Market%20Analysis-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasonBuildAI/GoldMind)
+
+</div>
+
+<div align="center">
+
+### 🔥 Projects I'm Contributing To
+
+[![AgentScope](https://img.shields.io/badge/AgentScope-Multi--Agent%20Framework-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/modelscope/agentscope)
+[![DeepAgents](https://img.shields.io/badge/DeepAgents-LangChain%20Agents-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/langchain-ai/deepagents)
+[![OpenStoryline](https://img.shields.io/badge/OpenStoryline-Interactive%20Narrative-95E1D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FireRedTeam/FireRed-OpenStoryline)
+
 </div>
 
 <br/>
@@ -128,22 +116,21 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- 主要统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonBuildAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
-  
-  <!-- 连续贡献 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonBuildAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" height="180" />
+
+<!-- 使用 shields.io 徽章展示统计数据 -->
+[![Repos](https://img.shields.io/badge/Repositories-38-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasonBuildAI?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-50-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasonBuildAI)
+[![Followers](https://img.shields.io/badge/Followers-5-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasonBuildAI)
+[![Following](https://img.shields.io/badge/Following-23-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasonBuildAI)
 
 </div>
 
-<div align="center">
-  
-  <!-- 使用语言 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBuildAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180" />
+<br/>
 
-  <!-- 贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonBuildAI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" alt="Contribution Graph" width="100%" />
+<div align="center">
+
+<!-- 使用 GitHub 官方贡献图 -->
+<img src="https://ghchart.rshah.org/00D9FF/JasonBuildAI" alt="GitHub Contribution Chart" width="90%" />
 
 </div>
 
