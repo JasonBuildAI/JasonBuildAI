@@ -1,12 +1,12 @@
 <div align="center">
-  
-  <!-- 动态打字机标题 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9C%A8;LangChain+%7C+Multi-Agent+%7C+RAG+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
 
-  <!-- 动态横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099CC,100:006699&height=200&section=header&text=Jason%20Cat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Enthusiast%20%7C%20AI%20Agent%20Builder&descAlignY=55&descAlign=50" />
+<!-- 动态打字机标题 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9C%A8;LangChain+%7C+Multi-Agent+%7C+RAG+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+<!-- 动态横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099CC,100:006699&height=200&section=header&text=Jason%20Cat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Enthusiast%20%7C%20AI%20Agent%20Builder&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -155,8 +155,8 @@ me.say_hi()
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
