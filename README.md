@@ -1,6 +1,8 @@
 # Jason Cat
 
-> Open source enthusiast · Agent developer · Lifelong learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Open+source+enthusiast;Agent+developer;Lifelong+learner" alt="Typing intro" />
+</p>
 
 ---
 
@@ -36,9 +38,3 @@ Interested in my projects, or just want to say hi? I'd love to hear from you —
 And if my work resonates with you, a **follow** or a **star** is the best recognition I could ask for.
 
 Thank you for stopping by!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonBuildAI&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=555555&text_color=666666" alt="Jason Cat's GitHub stats" />
-</p>
