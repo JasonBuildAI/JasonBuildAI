@@ -1,33 +1,44 @@
-## Hi, I'm Jason Cat
+# Jason Cat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=码农之道，Agent 为舟；智能之海，代码作帆)](https://git.io/typing-svg)
+> Open source enthusiast · Agent developer · Lifelong learner
 
-**Technology enthusiast focusing on Java, Python and Agent. Building intelligent systems through open source.**
+---
 
-## 🧭 About Me
+## About Me
 
-- Love coding
-- Love building AI agents
-- Love open source
+Hi, I'm **Jason Cat** — an open source enthusiast who loves building interesting projects and being part of the open source community.
+
+Beyond the keyboard, I enjoy:
+
+- **Football** — the passion, the teamwork, the beautiful game
+- **Going out and exploring** — new places, new people, new ideas
+- **Meeting different people** — everyone has a story worth hearing
+- **Building interesting projects** — turning curiosity into something real and useful
+
+I'm also genuinely excited to participate in the growth and promotion of mature projects — contributing to them, learning from them, and helping them reach more people.
+
+---
+
+## What I Do
+
+My main focus is **Agent development**. As AI matures, I'm able to take on mainstream software engineering work — from system design to implementation — building intelligent agents and the tools around them.
+
+The open source road is a long one, and there is always something new to learn. There will always be people better than me — and that's a good thing. I learn from them, and I'd love to connect and collaborate with more of you.
+
+---
+
+## Get in Touch
+
+Interested in my projects, or just want to say hi? I'd love to hear from you — open an issue, start a discussion, or reach out on GitHub:
+
+- **GitHub**: [JasonBuildAI](https://github.com/JasonBuildAI)
+
+And if my work resonates with you, a **follow** or a **star** is the best recognition I could ask for.
+
+Thank you for stopping by!
+
+---
 
 <p align="center">
-  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=a+cute+orange+cat+with+glasses+sitting+at+a+computer+desk+programming%2C+tech+workspace+with+multiple+screens+showing+code%2C+minimalist+style%2C+soft+warm+lighting%2C+digital+illustration&image_size=square_hd" alt="Jason Cat coding" width="260" />
-</p>
-
-## 🔭 Currently contributing to
-
-| Project | Area | About |
-| --- | --- | --- |
-| [kagent](https://github.com/JasonBuildAI/kagent) | Cloud Native Agentic AI | Cloud-native agentic AI framework for building intelligent distributed systems |
-| [code-review-skill](https://github.com/JasonBuildAI/code-review-skill) | Code Review / AI | Comprehensive code review skill for Claude Code, covering React, Rust, TypeScript and more |
-| [DeepSeek-Reasonix](https://github.com/JasonBuildAI/DeepSeek-Reasonix) | AI Coding Agent | DeepSeek-native AI coding agent engineered around prefix-cache stability |
-| [huashu-design](https://github.com/JasonBuildAI/huashu-design) | Design / HTML-native | HTML-native design skill for Claude Code with 20 design philosophies |
-| [OpenMontage](https://github.com/JasonBuildAI/OpenMontage) | Video Production | World's first open-source, agentic video production system |
-| [GoldMind](https://github.com/JasonBuildAI/GoldMind) | AI Market Analysis | AI-powered market analysis platform |
-| [likecodex](https://github.com/JasonBuildAI/likecodex) | Python Toolkit | Python-based development toolkit |
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonBuildAI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="JasonBuildAI stats card" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonBuildAI&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=555555&text_color=666666" alt="Jason Cat's GitHub stats" />
 </p>
