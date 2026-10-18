@@ -53,6 +53,19 @@
 > … and 10+ more repositories — HiRoute, agentbench, casdoor, langchain-ai/deepagents and others.
 > 另外还有 10+ 个仓库的贡献。
 
+## 📌 Featured Pull Requests · 代表 PR
+
+> Hand-picked, high-impact changes · 精选改动量大、含金量高的 PR
+
+| PR | Scale · 规模 | What it does · 改动内容 |
+| :--- | :--- | :--- |
+| [openagent#2192](https://github.com/the-open-agent/openagent/pull/2192) | +1,998 −649 · 13 files | Add a Windows GUI automation (UIA) tool for the agent<br>为 Agent 新增基于 Windows UIA 的 GUI 自动化工具 |
+| [OpenSandbox#2206](https://github.com/opensandbox-group/OpenSandbox/pull/2206) | +2,042 −38 · 16 files | C# SDK: stop capping file uploads / downloads at the request timeout (same fix shipped for JS & Kotlin)<br>修复 C# SDK 文件传输被请求超时截断（同批覆盖 JS / Kotlin） |
+| [agentbench#1](https://github.com/the-open-agent/agentbench/pull/1) | +1,859 −1 · 28 files | Introduce AgentBench — an automated benchmark framework for agents<br>从零引入 AgentBench：面向 Agent 的自动化基准测试框架 |
+| [openclaw#169172](https://github.com/openclaw/openclaw/pull/169172) | +843 −369 · 4 files | Fix tool-call text leaking into chat output when provider chunks split a call marker<br>修复流式输出中工具调用文本泄漏（跨 provider 分片边界） |
+| [OpenStoryline#79](https://github.com/FireRedTeam/FireRed-OpenStoryline/pull/79) | +864 −24 · 2 files | Fail-closed session restore on corrupted rows, redact config secrets, typed errors<br>会话恢复 fail-closed、配置密钥脱敏、错误类型化 |
+| [loopx#6422](https://github.com/loopx-project/loopx/pull/6422) | +563 −38 · 5 files | Keep the peer directory loading past its row cap<br>让代理目录突破行数上限继续加载 |
+
 ## 🐍 Contribution Graph · 贡献曲线
 
 <div align="center">
