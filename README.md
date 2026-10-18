@@ -63,15 +63,6 @@
   </picture>
 </div>
 
-## 🌟 Also Building · 个人项目
-
-- **[GoldMind](https://github.com/JasonBuildAI/GoldMind)** (66★) — AI gold-market analysis platform on a LangChain multi-agent architecture<br>基于 LangChain 多 Agent 架构的黄金市场智能分析平台
-- **[AITeachAI](https://github.com/JasonBuildAI/AITeachAI)** — One AI concept at a time · 一次教你一个 AI 知识点
-- **[Talk2Talk](https://github.com/JasonBuildAI/Talk2Talk)** — Two AIs chatting freely on any topic · 让两个 AI 天马行空地聊天
-- **[HistoricFriend](https://github.com/JasonBuildAI/HistoricFriend)** — Instantly generate a historical figure's social feed · 一键生成历史人物朋友圈
-- **[SuperPlants](https://github.com/JasonBuildAI/SuperPlants)** / **[SnakePlay](https://github.com/JasonBuildAI/SnakePlay)** — childhood classics rebuilt from scratch · 从零手写的童年小游戏
-- … plus 30+ small experiments · 以及 30+ 个小型实验项目
-
 ## 🤝 Community & More · 社区与日常
 
 - Member of [@the-open-agent](https://github.com/the-open-agent) and [@effectorHQ](https://github.com/effectorHQ) · 两个开源组织的成员
