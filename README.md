@@ -30,41 +30,28 @@
 
 > Since March 2026 · 自 2026 年 3 月起
 
-| Contributions ¹ | Commits | PRs Opened | PRs Merged | Issues | Repos Contributed |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **3,336** | **2,194** | **192** | **110** | **132** | **20+** |
+| Contributions ¹ | Commits | PRs Merged | Issues |
+| :---: | :---: | :---: | :---: |
+| **3,336** | **2,194** | **110** | **132** |
 
 <sub>¹ Past 12 months · 近 12 个月</sub>
 
 ## 🚀 Selected Contributions · 代表贡献
 
-| Project · 项目 | ⭐ | Merged | What I did · 我做了什么 |
-| :--- | ---: | ---: | :--- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392K | **6** | Streaming & gateway stability: reply stalls, tool-call leaks, event-loop fixes<br>流式与网关稳定性：回复卡顿、工具调用泄漏、事件循环修复 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84K | **11** | Windows agent spawn paths, web-search payload containment, test hardening<br>Windows 启动路径、搜索载荷容错、测试加固 |
-| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 35.8K | **2** | Atomic session-state writes, channel config type alignment<br>会话状态原子写入、通道配置类型对齐 |
-| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 15.9K | **8** | Sandbox CLI & SDKs: file-transfer timeouts (JS / Kotlin / C#), config & skills handling<br>沙箱 CLI 与 SDK：JS / Kotlin / C# 文件传输超时、配置与 skills 修复 |
-| [loopx-project/loopx](https://github.com/loopx-project/loopx) | 6.4K | **41** | Runtime: Windows lock / lease fixes, goal state, CI & canary gates<br>运行时：Windows 锁与租约、目标状态、CI 与 canary 门禁 |
-| [apache/maka](https://github.com/apache/maka) | 5.8K | **2** | Apache Incubating: secret redaction (fine-grained PATs), CI resilience<br>密钥脱敏（细粒度 PAT）、CI 韧性 |
-| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5.7K | **7** | Chat titles & usage metadata, Windows GUI automation tooling<br>聊天标题与用量元数据、Windows GUI 自动化 |
-| [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) | 3.5K | **8** | Video agent: session restore integrity, secret redaction, retry & error handling<br>视频 Agent：会话恢复完整性、密钥脱敏、重试与容错 |
-| [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) | 2.5K | **5** | Local-first AI video editor: Windows verification, shortcuts, media import<br>本地 AI 视频剪辑：Windows 验证、快捷键、媒体导入 |
+| Project · 项目 | ⭐ | What I did · 我做了什么 |
+| :--- | ---: | :--- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392K | Fixed reply stalls, tool-call text leaks and gateway event-loop blocking in streaming; hardened chunk-boundary handling<br>修复流式回复卡顿、工具调用文本泄漏与网关事件循环阻塞；加固分片边界处理 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84K | Windows agent spawn / PATH resolution, malformed web-search payload containment, oversized-payload & symlink test hardening<br>Windows 启动与 PATH 解析、异常搜索载荷容错、超大载荷与 symlink 测试加固 |
+| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 35.8K | Atomic session-state persistence; aligned channel config types with the built-in registry<br>会话状态原子化持久化；通道配置类型与内置注册表对齐 |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 15.9K | JS / Kotlin / C# SDK file-transfer timeout fixes, TOML config editing, skills paths, non-UTF-8 CLI output<br>JS / Kotlin / C# SDK 文件传输超时修复、TOML 配置编辑、skills 路径、非 UTF-8 输出兼容 |
+| [loopx-project/loopx](https://github.com/loopx-project/loopx) | 6.4K | Windows lock / lease & machine-identity fixes, goal state machine, stdio UTF-8 contracts, CI & canary gates<br>Windows 锁 / 租约与机器标识、目标状态机、stdio UTF-8 契约、CI 与 canary 门禁 |
+| [apache/maka](https://github.com/apache/maka) | 5.8K | Plugged secret-redaction gaps (fine-grained PATs, shared redactors); made CI resilient with bounded retries<br>补齐密钥脱敏漏洞（细粒度 PAT、共享脱敏器）；CI 限时重试提升韧性 |
+| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5.7K | Auto chat titles with fallback, usage metadata resilience, a Windows GUI (UIA) automation tool, config fixes<br>聊天标题自动生成与回退、用量元数据容错、Windows GUI（UIA）自动化工具、配置修复 |
+| [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) | 3.5K | Session-restore invariants (fail-closed on corrupt rows), config-secret redaction, drag-and-drop upload, typed errors & retries<br>会话恢复不变量（损坏数据 fail-closed）、配置密钥脱敏、拖拽上传、类型化错误与重试 |
+| [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) | 2.5K | Windows verification-suite isolation, Ctrl-chord shortcuts, whisper.cpp token grouping, local media import<br>Windows 验证套件隔离、Ctrl 组合快捷键、whisper.cpp 分词、本地媒体导入 |
 
 > … and 10+ more repositories — HiRoute, agentbench, casdoor, langchain-ai/deepagents and others.
 > 另外还有 10+ 个仓库的贡献。
-
-## 📌 Featured Pull Requests · 代表 PR
-
-> Hand-picked, high-impact changes · 精选改动量大、含金量高的 PR
-
-| PR | Scale · 规模 | What it does · 改动内容 |
-| :--- | :--- | :--- |
-| [openagent#2192](https://github.com/the-open-agent/openagent/pull/2192) | +1,998 −649 · 13 files | Add a Windows GUI automation (UIA) tool for the agent<br>为 Agent 新增基于 Windows UIA 的 GUI 自动化工具 |
-| [OpenSandbox#2206](https://github.com/opensandbox-group/OpenSandbox/pull/2206) | +2,042 −38 · 16 files | C# SDK: stop capping file uploads / downloads at the request timeout (same fix shipped for JS & Kotlin)<br>修复 C# SDK 文件传输被请求超时截断（同批覆盖 JS / Kotlin） |
-| [agentbench#1](https://github.com/the-open-agent/agentbench/pull/1) | +1,859 −1 · 28 files | Introduce AgentBench — an automated benchmark framework for agents<br>从零引入 AgentBench：面向 Agent 的自动化基准测试框架 |
-| [openclaw#169172](https://github.com/openclaw/openclaw/pull/169172) | +843 −369 · 4 files | Fix tool-call text leaking into chat output when provider chunks split a call marker<br>修复流式输出中工具调用文本泄漏（跨 provider 分片边界） |
-| [OpenStoryline#79](https://github.com/FireRedTeam/FireRed-OpenStoryline/pull/79) | +864 −24 · 2 files | Fail-closed session restore on corrupted rows, redact config secrets, typed errors<br>会话恢复 fail-closed、配置密钥脱敏、错误类型化 |
-| [loopx#6422](https://github.com/loopx-project/loopx/pull/6422) | +563 −38 · 5 files | Keep the peer directory loading past its row cap<br>让代理目录突破行数上限继续加载 |
 
 ## 🐍 Contribution Graph · 贡献曲线
 
