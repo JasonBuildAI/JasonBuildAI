@@ -12,7 +12,7 @@
 
 [![Followers](https://img.shields.io/github/followers/JasonBuildAI?style=for-the-badge&logo=github&label=Followers&color=0ea5e9)](https://github.com/JasonBuildAI?tab=followers)
 [![Merged PRs](https://img.shields.io/badge/Merged_PRs-146-3b82f6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=author%3AJasonBuildAI+type%3Apr+is%3Amerged&type=pullrequests)
-[![Combined Stars](https://img.shields.io/badge/Combined_Stars_of_Selected_Projects-555K%2B-f59e0b?style=for-the-badge)](https://github.com/JasonBuildAI#-selected-contributions--代表贡献)
+[![Combined Stars](https://img.shields.io/badge/Combined_Stars_of_Selected_Projects-554K%2B-f59e0b?style=for-the-badge)](https://github.com/JasonBuildAI#-selected-contributions--代表贡献)
 
 **Recent work · 最近在做**：openclaw streaming throughput · OpenSandbox SDK security · loopx Windows coordination
 
