@@ -1,18 +1,21 @@
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=AI+Agent+Runtime+%26+Execution+Safety;Streaming+Performance+%C2%B7+Sandbox+Security;Native+Windows+%C2%B7+WSL+%C2%B7+CI+Reliability;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing intro" />
-</p>
-
 # Hi, I'm Jason Cat 👋
+
+## 🌐 [欢迎访问我的个人网站 →](https://jasonbuildai.github.io/)
+
+**更完整的个人介绍、开源贡献、实战项目和持续更新的学习笔记，都在 [jasonbuildai.github.io](https://jasonbuildai.github.io/)。**
+
+<p>
+  <a href="https://jasonbuildai.github.io/">个人主页</a> ·
+  <a href="https://jasonbuildai.github.io/open-source.html">开源贡献</a> ·
+  <a href="https://jasonbuildai.github.io/projects.html">实战项目</a> ·
+  <a href="https://jasonbuildai.github.io/learning.html">学习空间</a>
+</p>
 
 **Focus: AI Agent Runtime & Execution Safety**
 
 **专注方向：AI Agent 运行时与执行安全 —— 让 Agent 跑得起、跑得稳、跑得安全**
-
-[![Followers](https://img.shields.io/github/followers/JasonBuildAI?style=for-the-badge&logo=github&label=Followers&color=0ea5e9)](https://github.com/JasonBuildAI?tab=followers)
-[![Merged PRs](https://img.shields.io/badge/Merged_PRs-146-3b82f6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=author%3AJasonBuildAI+type%3Apr+is%3Amerged&type=pullrequests)
-[![Combined Stars](https://img.shields.io/badge/Combined_Stars_of_Selected_Projects-554K%2B-f59e0b?style=for-the-badge)](https://github.com/JasonBuildAI#-selected-contributions--代表贡献)
 
 **Recent work · 最近在做**：openclaw streaming throughput · OpenSandbox SDK security · loopx Windows coordination
 
@@ -30,11 +33,11 @@
 
 ## 📊 By the Numbers · 数据速览
 
-> Rolling 12 months · 近 12 个月（截至 2026-10-27）
+> Rolling 12 months · 近 12 个月（截至 2026-10-31）
 
 | Contributions ¹ | Commits | PRs Merged | Issues |
 | :---: | :---: | :---: | :---: |
-| **3,474** | **2,254** | **146** | **171** |
+| **3,540** | **2,290** | **158** | **185** |
 
 <sub>¹ Includes private contributions · 含私密贡献；GitHub contribution graph, last 12 months</sub>
 
@@ -82,3 +85,5 @@
 
 <p align="center"><i>Happy to talk about agents, sandboxes and runtime reliability — or just to say hi.</i><br/>
 <i>欢迎交流 AI Agent、沙箱与运行时可靠性——也欢迎单纯打个招呼。如果我的工作对你有帮助，一颗 ⭐ 或一个关注就是最大的鼓励。</i></p>
+
+<p align="center"><strong>🌐 想了解更多？欢迎访问 <a href="https://jasonbuildai.github.io/">jasonbuildai.github.io</a></strong></p>
