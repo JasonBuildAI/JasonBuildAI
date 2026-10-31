@@ -75,16 +75,6 @@ I hope to keep learning, become a developer whose work is trusted, and build som
 
 <p align="right"><a href="https://jasonbuildai.github.io/open-source.html"><strong>Full contribution index →</strong></a></p>
 
-## Contribution Activity <sub>贡献动态</sub>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/JasonBuildAI/JasonBuildAI/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ## Let's Connect <sub>保持联系</sub>
 
 I'm always happy to discuss agent runtimes, sandbox security, open-source collaboration, a new project, or simply exchange ideas.
